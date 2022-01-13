@@ -1,0 +1,1 @@
+mapboxkey =  "" #insert your mapbox api-key here
